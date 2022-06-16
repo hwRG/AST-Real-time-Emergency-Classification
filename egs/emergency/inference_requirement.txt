@@ -1,0 +1,5 @@
+torchaudio
+pipwin
+# pipwin install pyaudio
+wget
+timm==0.4.5

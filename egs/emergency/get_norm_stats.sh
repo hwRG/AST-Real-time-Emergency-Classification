@@ -1,0 +1,1 @@
+CUDA_CACHE_DISABLE=1 python -W ignore ../../src/get_norm_stats.py
